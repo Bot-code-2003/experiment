@@ -1,6 +1,1 @@
-The end
-<<<<<<< HEAD
-Thanks for reading!
-=======
-Thank you for reading!
->>>>>>> mortal-pov
+I am named super man
