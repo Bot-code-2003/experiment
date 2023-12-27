@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I quite like it here in mortals realm
+=======
+I quite like it here in Gods realm!
+>>>>>>> mortal-pov

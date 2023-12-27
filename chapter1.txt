@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 We are in mortal realm, i am god
+=======
+We are in Gods realm, i am a Mortal
+>>>>>>> mortal-pov
